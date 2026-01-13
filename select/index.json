@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "サイレン *Siren*",
+  "base_artist": "平沢進",
+  "createdAt": "2026-01-13T16:16:22.935829Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サイレン *Siren*",
+      "artist": "Susumu Hirasawa",
+      "has_synced": true,
+      "path": "select/01_サイレン__Siren_Susumu_Hirasawa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サイレン ~siren~",
+      "artist": "平沢進",
+      "has_synced": true,
+      "path": "select/02_サイレン_~siren~_平沢進.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サイレン",
+      "artist": "Nue",
+      "has_synced": false,
+      "path": "select/03_サイレン_Nue.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サイレン",
+      "artist": "THE BACK HORN",
+      "has_synced": false,
+      "path": "select/04_サイレン_THE_BACK_HORN.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サイレン",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/05_サイレン_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サイレン",
+      "artist": "Hitsujibungaku",
+      "has_synced": false,
+      "path": "select/06_サイレン_Hitsujibungaku.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サイレン",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/07_サイレン_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サイレン",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/08_サイレン_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Siren (サイレン Sairen)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/09_Siren_(サイレン_Sairen)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "サイレン",
+      "artist": "People In The Box",
+      "has_synced": true,
+      "path": "select/10_サイレン_People_In_The_Box.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "サイレン",
+      "artist": "波羅ノ鬼",
+      "has_synced": true,
+      "path": "select/11_サイレン_波羅ノ鬼.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "サイレン (2016)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/12_サイレン_(2016)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Siren 2016 [サイレン 2016]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/13_Siren_2016_[サイレン_2016]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Siren [サイレン]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/14_Siren_[サイレン]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "サイレン (2016 Version) (2016 Rerecorded)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/15_サイレン_(2016_Version)_(2016_Rerecorded)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サイレン \"Siren\"",
+      "artist": "平沢 進",
+      "has_synced": false,
+      "path": "select/pl_01_サイレン__Siren_平沢_進.txt"
+    }
+  ]
+}
